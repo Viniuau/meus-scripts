@@ -1,1 +1,51 @@
-hello hello
+### Este é um lugar com scripts úteis/inúteis, não sei o que está fazendo aqui
+#### Mas já que está aqui, faça o que quiser com eles
+##### Se acha que algo está errado, não tenha medo em dar Pull Request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### Eu não sei porque deu scroll na página
