@@ -10,16 +10,16 @@ escolha = int(input("Seu comando: "))
 while(escolha > 0):
     if (escolha == 1):
         print("A soma dá", x+y, "meu amiguinho")
-        break
+        escolha = 0
     elif (escolha == 2):
         print("A subtração dá", x-y, "meu amiguinho")
-        break
+        escolha = 0
     elif(escolha == 3):
         print("A multiplicação dá", x*y, "meu amiguinho")
-        break
+        escolha = 0
     elif(escolha == 4):
         print("A divisão dá", x/y, "meu amiguinho")
-        break
+        escolha = 0
     else:
         print("opora tu digitou o número errado")
         break
